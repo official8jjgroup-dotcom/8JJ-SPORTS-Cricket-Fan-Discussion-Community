@@ -1,7 +1,7 @@
 ---
 title: "Irfan Pathan on Shreyas Iyer: “He’s Set to Replicate Last Season’s Form with Punjab Kings”"
 description: "Former India all‑rounder Irfan Pathan has backed Shreyas Iyer to replicate his outstanding 2025 IPL form with the Punjab Kings in the 2026 Indian Premier League season."
-date: 2026‑03‑17
+date: 2026-03-17
 author: "8JJ Sports"
 layout: post
 ---
