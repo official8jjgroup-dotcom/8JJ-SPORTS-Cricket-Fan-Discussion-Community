@@ -11,7 +11,7 @@ layout: post
 Indian women’s hockey team skipper Salima Tete celebrated a major career milestone by earning her 150th international cap, highlighting her enduring influence and leadership in the midfield since debuting for the national team in 2016.
 
 ---
-You can read the **full original article on 8jj.com** here:  
+You can read the **full original article on 8jj.com** here:   
 👉 [Salima Tete Hits 150 Caps As India’s Hockey Captain](https://8jj.com/salima-tete-hits-150-caps-as-indias-hockey-captain/)
 ---
 
