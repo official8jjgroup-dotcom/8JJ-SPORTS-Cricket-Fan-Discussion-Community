@@ -1,7 +1,7 @@
 ---
 title: "IPL Sale Shock: 5 Key Facts Behind $1.635B Rajasthan Royals Deal"
 description: "An in‑depth look at the blockbuster $1.635 billion sale of the Rajasthan Royals IPL franchise and what it means for cricket’s commercial landscape."
-date: 2026‑03‑26
+date: 2026-03-26
 author: "8JJ.com"
 layout: post
 ---
