@@ -1,7 +1,7 @@
 ---
 title: "Ashok Sharma IPL Debut: 5 Key Moments From His Performance"
 description: "A breakdown of the standout moments from Ashok Sharma’s IPL debut that showcased his talent and potential at the highest level."
-date: 2026‑04‑01
+date: 2026-04-01
 author: "8JJ Sports"
 layout: post
 ---
