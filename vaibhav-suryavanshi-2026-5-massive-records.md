@@ -10,7 +10,7 @@ layout: post
 
 ---
 
-Vaibhav Suryavanshi has taken IPL 2026 by storm with a series of record-breaking performances that have stunned fans and experts alike. The teenage sensation grabbed headlines with a breathtaking 15-ball fifty, placing him among the fastest scorers in IPL history. :contentReference[oaicite:0]{index=0}  
+Vaibhav Suryavanshi has taken IPL 2026 by storm with a series of record-breaking performances that have stunned fans and experts alike. The teenage sensation grabbed headlines with a breathtaking 15-ball fifty, placing him among the fastest scorers in IPL history.
 
 His fearless batting approach and ability to dominate bowlers at such a young age have made him one of the most exciting players to watch this season. With multiple milestones already achieved, Suryavanshi’s rise signals a new era of explosive young talent in the league.
 
